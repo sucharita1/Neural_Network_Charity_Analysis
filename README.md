@@ -61,7 +61,7 @@ Our code performs the following steps:
 
 
 #### Deliverable 3
-* code in [AlphabetSoupCharity_Optimization.ipynb](https://github.com/sucharita1/Neural_Network_Charity_Analysis/blob/069be6b4e556615909b53b69f06368096855893a/AlphabetSoupCharity.ipynb)
+* code in [AlphabetSoupCharity_Optimization.ipynb](https://github.com/sucharita1/Neural_Network_Charity_Analysis/blob/3b152d6198c12ddbe64677b2caf042380227152b/AlphabetSoupCharity_Optimization.ipynb)
 * checkpoints in [checkpoints_Op](https://github.com/sucharita1/Neural_Network_Charity_Analysis/tree/main/checkpoints_Op)
 * saved h5 file in [AlphabetSoupCharity_Op.h5](https://github.com/sucharita1/Neural_Network_Charity_Analysis/blob/069be6b4e556615909b53b69f06368096855893a/AlphabetSoupCharity_Op.h5)
 
