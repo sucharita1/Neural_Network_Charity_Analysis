@@ -144,7 +144,7 @@ The target model performance was acheived and the final performance was **77.19 
 
 ![optimum](https://github.com/sucharita1/Neural_Network_Charity_Analysis/blob/069be6b4e556615909b53b69f06368096855893a/Resources/Images/optimum.png)
 
-2. Recommendation on a different model would be a **Random Forest Clasisfier**, because:
+2. Recommendation on a different model would be a **Random Forest Classifier**, because:
     - The Random forest classifier works very well with tabular data.
     - There are only 34000 rows in this csv file so Random forest classifier can handle it easily while ANN involves much more complexity.
     - It can handle thousands of input variables without variable deletion and in this case where data seems to be less it seems a good choice to keep all the data.
